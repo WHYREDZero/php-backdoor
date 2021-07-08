@@ -3,3 +3,5 @@ A simple backdoor written in PHP. It is password-protected, and can perform the 
 * Run commands
 * Upload files
 * Download files
+
+The default password for the backdoor is "password".
