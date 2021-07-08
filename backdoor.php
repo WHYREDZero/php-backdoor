@@ -5,7 +5,7 @@
     </form>
 <?php
 $pass = $_POST['pass'];
-if($pass == "whyred")
+if($pass == "password")
 {
    echo '
 <h1>Download a File</h1>
